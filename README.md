@@ -74,7 +74,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
+> <a href="[https://github.com/IALubyagin/data-analytics/blob/main/SQL/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F.sql">Ссылка на проект</a>
 
 <p>Выводы (итоги):<p>
 <ol>
